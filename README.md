@@ -4,10 +4,9 @@ This is Team WTRC's Traffic Light Detector and Classifier repo for the final pro
 
 ### Team WRTC (Work-Round-The-Clock)
 1. Edwin Ng (Team Leader)
-2. Ji Xiao Jie
-3. Kilian Muelken
-4. Kinji Sato
-5. Martin Muehlmeier
+2. Kilian Muelken
+3. Kinji Sato
+4. Martin Muehlmeier
 
 
 ### Usage
